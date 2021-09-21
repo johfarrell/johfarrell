@@ -5,6 +5,7 @@ I love to work in design and programming related field such as UI-UX Design and 
 
 # My Life 👀
 * (2021) Start CS Master program in [Binus University](https://binus.ac.id/)
+* (2021) Join [Sakumas](https://sakumas.com/) as UI/UX Designer
 * (2021) Join [Nutrifood](http://www.nutrifood.co.id/) as App Developer Intern
 * (2019) Join [Sportigo](https://www.sportigopass.com/) as Android UI Engineer and React Native Developer
 * (2018) Start CS Undergraduate program in [Binus University](https://binus.ac.id/)
