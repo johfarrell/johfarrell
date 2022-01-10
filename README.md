@@ -25,7 +25,7 @@ I love to work in design and programming related field such as UI-UX Design and 
 [![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&color=282c34)](https://www.docker.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&color=282c34)](https://ubuntu.com/)
 
-# Contact 📫
+# Link 🔗
 * [Portfolio](https://johfarrell.com/)
 * [LinkedIn](https://www.linkedin.com/in/johfarrell/)
 * [Medium](https://johfarrell.medium.com/)
