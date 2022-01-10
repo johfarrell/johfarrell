@@ -24,7 +24,7 @@ I love to work in design and programming related field such as UI-UX Design and 
 [![Firebase](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&color=282c34)](https://firebase.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&color=282c34)](https://www.docker.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&color=282c34)](https://ubuntu.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Ubuntu&color=282c34)](https://ubuntu.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&color=282c34)](https://ubuntu.com/)
 
 # Link 🔗
 * [Portfolio](https://johfarrell.com/)
